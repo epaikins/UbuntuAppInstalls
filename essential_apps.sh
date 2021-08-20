@@ -39,3 +39,8 @@ echo "-----------------------------"
 echo "Installing Spotify"
 echo "-----------------------------"
 sudo snap install spotify
+
+echo "-----------------------------"
+echo "Installing Uget"
+echo "-----------------------------"
+sudo apt-get install -y uget
