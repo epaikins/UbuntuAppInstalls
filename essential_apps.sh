@@ -44,3 +44,8 @@ echo "-----------------------------"
 echo "Installing Uget"
 echo "-----------------------------"
 sudo apt-get install -y uget
+
+echo "-----------------------------"
+echo "Installing Telegram"
+echo "-----------------------------"
+sudo snap install telegram-desktop
